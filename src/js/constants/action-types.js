@@ -1,0 +1,1 @@
+export const EDIT_HOTELS = "EDIT_HOTELS";
